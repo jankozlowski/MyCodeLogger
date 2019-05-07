@@ -4,20 +4,21 @@
 	<classpathentry kind="src" path="images"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/Sariel/Desktop/system-hook-2.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sariel/Desktop/httpcomponents-client-4.5.3-bin/httpcomponents-client-4.5.3/lib/commons-codec-1.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sariel/Desktop/httpcomponents-client-4.5.3-bin/httpcomponents-client-4.5.3/lib/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sariel/Desktop/httpcomponents-client-4.5.3-bin/httpcomponents-client-4.5.3/lib/fluent-hc-4.5.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sariel/Desktop/httpcomponents-client-4.5.3-bin/httpcomponents-client-4.5.3/lib/httpclient-4.5.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sariel/Desktop/httpcomponents-client-4.5.3-bin/httpcomponents-client-4.5.3/lib/httpclient-cache-4.5.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sariel/Desktop/httpcomponents-client-4.5.3-bin/httpcomponents-client-4.5.3/lib/httpclient-win-4.5.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sariel/Desktop/httpcomponents-client-4.5.3-bin/httpcomponents-client-4.5.3/lib/httpcore-4.4.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sariel/Desktop/httpcomponents-client-4.5.3-bin/httpcomponents-client-4.5.3/lib/httpmime-4.5.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sariel/Desktop/httpcomponents-client-4.5.3-bin/httpcomponents-client-4.5.3/lib/jna-4.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sariel/Desktop/httpcomponents-client-4.5.3-bin/httpcomponents-client-4.5.3/lib/jna-platform-4.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sariel/Desktop/jackson-databind-2.8.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sariel/Desktop/jackson-core-2.8.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sariel/Desktop/jackson-annotations-2.8.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sariel/Desktop/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee/eclipse/workspace/MyCodeLogger/liberies/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee/eclipse/workspace/MyCodeLogger/liberies/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee/eclipse/workspace/MyCodeLogger/liberies/fluent-hc-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee/eclipse/workspace/MyCodeLogger/liberies/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee/eclipse/workspace/MyCodeLogger/liberies/httpclient-cache-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee/eclipse/workspace/MyCodeLogger/liberies/httpclient-win-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee/eclipse/workspace/MyCodeLogger/liberies/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee/eclipse/workspace/MyCodeLogger/liberies/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee/eclipse/workspace/MyCodeLogger/liberies/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee/eclipse/workspace/MyCodeLogger/liberies/system-hook-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee/eclipse/workspace/MyCodeLogger/liberies/jna-platform-5.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee/eclipse/workspace/MyCodeLogger/liberies/jna-5.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee/eclipse/workspace/MyCodeLogger/liberies/jackson-annotations-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee/eclipse/workspace/MyCodeLogger/liberies/jackson-core-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee/eclipse/workspace/MyCodeLogger/liberies/jackson-databind-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee/eclipse/workspace/MyCodeLogger/liberies/jackson-datatype-jsr310-2.9.8.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
